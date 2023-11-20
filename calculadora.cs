@@ -38,6 +38,7 @@ class Calculator
             return;
            }
         }else{
+            Console.Write("ocorreu um erro tente novamente");
             return;
         }
         
